@@ -200,8 +200,8 @@ if __name__ == "__main__":
     
     # Load data files
     print("Loading data files...")
-    perfect_data = loadmat("/kaggle/input/perfect-h-40000/Perfect_H_40000.mat")
-    noisy_data = loadmat("/kaggle/input/my-noisy-h-12/My_noisy_H_12.mat")
+    perfect_data = loadmat("Perfect_H_40000.mat")
+    noisy_data = loadmat("My_noisy_H_12.mat")
     
     # Debug: print available keys (excluding MATLAB metadata)
     perfect_keys = [k for k in perfect_data.keys() if not k.startswith('__')]
