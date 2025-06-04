@@ -4,12 +4,12 @@
 This repository provides a keras version of the code for the paper "Deep-Learning-Based-Channel-Estimation"
 
 ---
-# Data
+# Data source
 links: Perfect channels - VehA model (without noise): https://drive.google.com/file/d/1H5GiEWITfM00R4BS2uC3SiBLR0EZKX8m/view?usp=sharing
 
-Noisy channels (SNR = 12dB); https://drive.google.com/file/d/1mwnfXalDUTebreMZqUNHRGAENAeJL1Nn/view?usp=sharing
+Noisy channels (SNR = 12dB): https://drive.google.com/file/d/1mwnfXalDUTebreMZqUNHRGAENAeJL1Nn/view?usp=sharing
 
-Noisy channels (SNR = 22dB);https://drive.google.com/file/d/1j0BcBoVKCDInryqfCRPjINAUrFrI_rxB/view?usp=sharing
+Noisy channels (SNR = 22dB):https://drive.google.com/file/d/1j0BcBoVKCDInryqfCRPjINAUrFrI_rxB/view?usp=sharing
 
 ---
 
