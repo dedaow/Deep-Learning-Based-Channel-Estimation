@@ -5,7 +5,8 @@ This repository provides a keras version of the code for the paper "Deep-Learnin
 
 ---
 # Data source
-links: Perfect channels - VehA model (without noise): https://drive.google.com/file/d/1H5GiEWITfM00R4BS2uC3SiBLR0EZKX8m/view?usp=sharing
+
+Perfect channels - VehA model (without noise): https://drive.google.com/file/d/1H5GiEWITfM00R4BS2uC3SiBLR0EZKX8m/view?usp=sharing
 
 Noisy channels (SNR = 12dB): https://drive.google.com/file/d/1mwnfXalDUTebreMZqUNHRGAENAeJL1Nn/view?usp=sharing
 
